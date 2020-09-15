@@ -1,0 +1,55 @@
+#top-wrapper {
+  text-align: center;
+  padding-top: 50px;
+}
+
+#top-wrapper h3 {
+  font-size: 40px;
+  letter-spacing: 10px;
+}
+
+#top-wrapper img {
+  width: 70%;
+  padding: 50px;
+}
+
+#center-info {
+  width: 80%;
+  padding-left: 10%;
+}
+
+#sns-timeline {
+  margin-left: 15%;
+  width: 70%;
+  margin-bottom: 100px;
+}
+
+.sns-plugin {
+  width: 50%;
+}
+
+.info {
+  width: 70%;
+  margin-left: 15%;
+}
+
+.center-info {
+  padding: 50px 0 100px;
+  font-size: 24px;
+  margin: 0 auto;
+}
+
+td {
+  text-align: center;
+}
+
+td,th {
+  border-bottom: 1px solid #eee;
+  padding: 25px 0;
+}
+
+.add-comment {
+  font-size: 12px;
+}
+
+
