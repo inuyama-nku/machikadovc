@@ -1,0 +1,26 @@
+section {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+}
+
+table {
+  font-size: 20px;
+  margin: 30px 0 100px;
+}
+
+th,td {
+  padding: 10px 20px;
+}
+
+span {
+  color: red;
+}
+
+.detail {
+  text-align: center;
+}
